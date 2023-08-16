@@ -29,6 +29,6 @@ Actualmente estudiando **ReactNative** y **Typescript**
 
 ### Contactame aquí: 
 
-[Linkedin](https://www.linkedin.com/in/cesar-yannick-fullstack-developer/)
+[Linkedin](https://www.linkedin.com/in/makarena-nazar-32948b120/)
 
 Email: nazarmakarena@gmail.com
